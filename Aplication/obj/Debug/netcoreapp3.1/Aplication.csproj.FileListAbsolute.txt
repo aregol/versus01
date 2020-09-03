@@ -1,0 +1,9 @@
+C:\Users\olope\source\repos\Versus01\Aplication\bin\Debug\netcoreapp3.1\Aplication.deps.json
+C:\Users\olope\source\repos\Versus01\Aplication\bin\Debug\netcoreapp3.1\Aplication.dll
+C:\Users\olope\source\repos\Versus01\Aplication\obj\Debug\netcoreapp3.1\Aplication.csprojAssemblyReference.cache
+C:\Users\olope\source\repos\Versus01\Aplication\obj\Debug\netcoreapp3.1\Aplication.AssemblyInfoInputs.cache
+C:\Users\olope\source\repos\Versus01\Aplication\obj\Debug\netcoreapp3.1\Aplication.AssemblyInfo.cs
+C:\Users\olope\source\repos\Versus01\Aplication\bin\Debug\netcoreapp3.1\Aplication.pdb
+C:\Users\olope\source\repos\Versus01\Aplication\obj\Debug\netcoreapp3.1\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\olope\source\repos\Versus01\Aplication\obj\Debug\netcoreapp3.1\Aplication.dll
+C:\Users\olope\source\repos\Versus01\Aplication\obj\Debug\netcoreapp3.1\Aplication.pdb
